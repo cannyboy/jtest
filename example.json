@@ -2,23 +2,52 @@
   "panes": [
     {
       "url": "https://example.com/page1",
-      "width": 200,
-      "height": 300
+      "width": 50,
+      "height": 50,
+      "x": 0,
+      "y": 0
     },
     {
       "url": "https://example.com/page2",
-      "width": 400,
-      "height": 200
+      "width": 25,
+      "height": 50,
+      "x": 50,
+      "y": 0
     },
     {
       "url": "https://example.com/page3",
-      "width": 200,
-      "height": 200
+      "width": 25,
+      "height": 50,
+      "x": 75,
+      "y": 0
     },
     {
       "url": "https://example.com/page4",
-      "width": 200,
-      "height": 100
+      "width": 100,
+      "height": 50,
+      "x": 0,
+      "y": 50
+    },
+    {
+      "url": "https://example.com/page5",
+      "width": 50,
+      "height": 50,
+      "x": 50,
+      "y": 50
+    },
+    {
+      "url": "https://example.com/page6",
+      "width": 50,
+      "height": 50,
+      "x": 0,
+      "y": 100
+    },
+    {
+      "url": "https://example.com/page7",
+      "width": 50,
+      "height": 50,
+      "x": 50,
+      "y": 100
     }
   ]
 }
