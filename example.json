@@ -1,24 +1,34 @@
 {
-    "panes": [
+  "panes": [
+    {
+      "url": "https://www.example.com",
+      "size": [
         {
-            "url": "https://example.com",
-            "size": {"width": 50, "height": 50},
-            "position": {"x": 0, "y": 0}
-        },
-        {
-            "url": "https://example.org",
-            "size": {"width": 50, "height": 50},
-            "position": {"x": 50, "y": 0}
-        },
-        {
-            "url": "https://example.net",
-            "size": {"width": 50, "height": 50},
-            "position": {"x": 0, "y": 50}
-        },
-        {
-            "url": "https://example.edu",
-            "size": {"width": 50, "height": 50},
-            "position": {"x": 50, "y": 50}
+          "width": 50,
+          "height": 50
         }
-    ]
+      ],
+      "position": [
+        {
+          "x": 0,
+          "y": 0
+        }
+      ]
+    },
+    {
+      "url": "https://www.example.com",
+      "size": [
+        {
+          "width": 50,
+          "height": 50
+        }
+      ],
+      "position": [
+        {
+          "x": 50,
+          "y": 0
+        }
+      ]
+    }
+  ]
 }
