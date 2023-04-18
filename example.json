@@ -1,24 +1,24 @@
 {
-  "panes": [
-    {
-      "url": "https://example.com/page1",
-      "width_percentage": 50,
-      "height_percentage": 50
-    },
-    {
-      "url": "https://example.com/page2",
-      "width_percentage": 25,
-      "height_percentage": 50
-    },
-    {
-      "url": "https://example.com/page3",
-      "width_percentage": 25,
-      "height_percentage": 50
-    },
-    {
-      "url": "https://example.com/page4",
-      "width_percentage": 50,
-      "height_percentage": 50
-    }
-  ]
+    "panes": [
+        {
+            "url": "https://example.com",
+            "size": {"width": 50, "height": 50},
+            "position": {"x": 0, "y": 0}
+        },
+        {
+            "url": "https://example.org",
+            "size": {"width": 50, "height": 50},
+            "position": {"x": 50, "y": 0}
+        },
+        {
+            "url": "https://example.net",
+            "size": {"width": 50, "height": 50},
+            "position": {"x": 0, "y": 50}
+        },
+        {
+            "url": "https://example.edu",
+            "size": {"width": 50, "height": 50},
+            "position": {"x": 50, "y": 50}
+        }
+    ]
 }
