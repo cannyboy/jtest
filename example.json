@@ -1,7 +1,7 @@
 {
   "panes": [
     {
-      "url": "https://www.example.com",
+      "url": "https://www.apple.com",
       "size": {
         "width": 50,
         "height": 50
@@ -12,7 +12,7 @@
       }
     },
     {
-      "url": "https://www.example.com",
+      "url": "https://www.microsoft.com",
       "size": {
         "width": 50,
         "height": 50
