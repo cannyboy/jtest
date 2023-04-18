@@ -2,52 +2,23 @@
   "panes": [
     {
       "url": "https://example.com/page1",
-      "width": 50,
-      "height": 50,
-      "x": 0,
-      "y": 0
+      "width_percentage": 50,
+      "height_percentage": 50
     },
     {
       "url": "https://example.com/page2",
-      "width": 25,
-      "height": 50,
-      "x": 50,
-      "y": 0
+      "width_percentage": 25,
+      "height_percentage": 50
     },
     {
       "url": "https://example.com/page3",
-      "width": 25,
-      "height": 50,
-      "x": 75,
-      "y": 0
+      "width_percentage": 25,
+      "height_percentage": 50
     },
     {
       "url": "https://example.com/page4",
-      "width": 100,
-      "height": 50,
-      "x": 0,
-      "y": 50
-    },
-    {
-      "url": "https://example.com/page5",
-      "width": 50,
-      "height": 50,
-      "x": 50,
-      "y": 50
-    },
-    {
-      "url": "https://example.com/page6",
-      "width": 50,
-      "height": 50,
-      "x": 0,
-      "y": 100
-    },
-    {
-      "url": "https://example.com/page7",
-      "width": 50,
-      "height": 50,
-      "x": 50,
-      "y": 100
+      "width_percentage": 50,
+      "height_percentage": 50
     }
   ]
 }
