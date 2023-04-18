@@ -1,26 +1,22 @@
 {
   "panes": [
     {
-      "url": "https://www.example.com",
-      "size": {
-        "width": 50,
-        "height": 50
-      },
-      "position": {
-        "x": 0,
-        "y": 0
-      }
+      "url": "https://www.apple.com",
+      "sizes": [
+        {"width": 400, "height": 600}
+      ],
+      "positions": [
+        {"x": 0, "y": 0}
+      ]
     },
     {
-      "url": "https://www.example.com",
-      "size": {
-        "width": 50,
-        "height": 50
-      },
-      "position": {
-        "x": 50,
-        "y": 0
-      }
+      "url": "https://www.google.com",
+      "sizes": [
+        {"width": 600, "height": 400}
+      ],
+      "positions": [
+        {"x": 400, "y": 0}
+      ]
     }
   ]
 }
