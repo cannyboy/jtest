@@ -1,6 +1,6 @@
 {
     "refresh":{
-      "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
+      "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/examplewithrefresh2.json",
       "time": 20
     },
     "panes": [
