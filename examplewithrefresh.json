@@ -1,8 +1,8 @@
 {
-    "refresh":[
+    "refresh":{
       "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
       "time": 120
-    ],
+    },
     "panes": [
         {
             "url": "https://www.google.com",
