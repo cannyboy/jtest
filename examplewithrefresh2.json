@@ -1,0 +1,36 @@
+{
+    "refresh":{
+      "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
+      "time": 10
+    },
+    "panes": [
+        {
+            "url": "https://www.guardian.co.uk",
+            "width": 25,
+            "height": 100,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "url": "https://www.bbc.co.uk/news",
+            "width": 25,
+            "height": 100,
+            "x": 25,
+            "y": 0
+        },
+        {
+            "url": "https://www.cnn.com",
+            "width": 25,
+            "height": 100,
+            "x": 50,
+            "y": 0
+        },
+        {
+            "url": "https://www.nytimes.com",
+            "width": 25,
+            "height": 100,
+            "x": 75,
+            "y": 0
+        }
+    ]
+}
