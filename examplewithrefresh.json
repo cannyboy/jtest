@@ -1,0 +1,36 @@
+{
+    "refresh":[
+      "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
+      "time": 120
+    ],
+    "panes": [
+        {
+            "url": "https://www.google.com",
+            "width": 50,
+            "height": 50,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "url": "https://www.apple.com",
+            "width": 50,
+            "height": 50,
+            "x": 50,
+            "y": 0
+        },
+        {
+            "url": "https://www.microsoft.com",
+            "width": 50,
+            "height": 50,
+            "x": 0,
+            "y": 50
+        },
+        {
+            "url": "https://www.amazon.com",
+            "width": 50,
+            "height": 50,
+            "x": 50,
+            "y": 50
+        }
+    ]
+}
