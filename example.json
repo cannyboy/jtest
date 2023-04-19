@@ -1,26 +1,32 @@
 {
-  "panes": [
-    {
-      "url": "https://www.apple.com",
-      "size": {
-        "width": 50,
-        "height": 50
-      },
-      "position": {
-        "x": 0,
-        "y": 0
-      }
-    },
-    {
-      "url": "https://www.microsoft.com",
-      "size": {
-        "width": 50,
-        "height": 50
-      },
-      "position": {
-        "x": 50,
-        "y": 0
-      }
-    }
-  ]
+    "panes": [
+        {
+            "url": "https://www.google.com",
+            "width": 50,
+            "height": 50,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "url": "https://www.apple.com",
+            "width": 50,
+            "height": 50,
+            "x": 50,
+            "y": 0
+        },
+        {
+            "url": "https://www.microsoft.com",
+            "width": 50,
+            "height": 50,
+            "x": 0,
+            "y": 50
+        },
+        {
+            "url": "https://www.amazon.com",
+            "width": 50,
+            "height": 50,
+            "x": 50,
+            "y": 50
+        }
+    ]
 }
