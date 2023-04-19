@@ -5,28 +5,28 @@
     },
     "panes": [
         {
-            "url": "https://www.guardian.co.uk",
+            "url": "https://www.twitter.com",
             "width": 25,
             "height": 100,
             "x": 0,
             "y": 0
         },
         {
-            "url": "https://www.bbc.co.uk/news",
+            "url": "https://www.facebook.com",
             "width": 25,
             "height": 100,
             "x": 25,
             "y": 0
         },
         {
-            "url": "https://www.cnn.com",
+            "url": "https://www.instagram.com",
             "width": 25,
             "height": 100,
             "x": 50,
             "y": 0
         },
         {
-            "url": "https://www.nytimes.com",
+            "url": "https://www.pinterest.com",
             "width": 25,
             "height": 100,
             "x": 75,
