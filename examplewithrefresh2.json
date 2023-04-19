@@ -1,7 +1,7 @@
 {
     "refresh":{
       "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
-      "time": 10
+      "time": 20
     },
     "panes": [
         {
