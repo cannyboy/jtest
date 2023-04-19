@@ -1,32 +1,32 @@
 {
     "refresh":{
       "url":"https://raw.githubusercontent.com/cannyboy/jtest/main/example.json",
-      "time": 120
+      "time": 20
     },
     "panes": [
         {
-            "url": "https://www.google.com",
+            "url": "https://www.guardian.co.uk",
             "width": 50,
             "height": 50,
             "x": 0,
             "y": 0
         },
         {
-            "url": "https://www.apple.com",
+            "url": "https://www.bbcnews.com",
             "width": 50,
             "height": 50,
             "x": 50,
             "y": 0
         },
         {
-            "url": "https://www.microsoft.com",
+            "url": "https://www.cnn.com",
             "width": 50,
             "height": 50,
             "x": 0,
             "y": 50
         },
         {
-            "url": "https://www.amazon.com",
+            "url": "https://www.nytimes.com",
             "width": 50,
             "height": 50,
             "x": 50,
